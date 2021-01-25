@@ -102,5 +102,6 @@
     "SKIP_TRACK_MARKED_DISLIKED": "跳过\"不喜欢\"标记",
     "SKIP_TRACK_SHORTER_THAN": "跳过播放长度短于",
     "TRAY_ICON": "任务栏图标",
-    "WANT_PLAY_THIS_LINK": "要播放本链接吗？"
+    "WANT_PLAY_THIS_LINK": "要播放本链接吗？",
+    "LABEL_SETTINGS_TAB_GENERAL_SHINY_TRAY_SONG_TITLE_ROLLABLE": "状态栏标题滚动"
 }
