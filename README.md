@@ -10,7 +10,25 @@ This repository is intended to store all locale files for different language.
 
 | Language | Language in local characters | Filename |
 | -------- | ---------------------------- | -------- |
+| Arabic  | عربى                      | ar.json |
+| Catalan  | Català                      | ca.json |
+| Czech  | čeština                      | cs.json |
+| Danish  | dansk                      | da.json |
+| German  | Deutsche                      | de.json |
 | English  | English                      | en.json |
+| French  | Français                      | fr.json |
+| Hungarian  | Hongrois                      | hu.json |
+| Indonesian  | Indonesia                      | id.json |
+| Italian  | Italiano                      | it.json |
+| Japanese  | 日本人                      | ja.json |
+| Korean  | 한국어                      | ko.json |
+| Norwegian  | Norsk                      | no.json |
+| Polish  | Polskie                      | pl.json |
+| Portuguese  | Português                      | pt.json |
+| Portuguese (Brazil)  | Português (Brasil)                      | pt-BR.json |
+| Russian  | Pусский                      | ru.json |
+| Turkish  | Türk                      | tr.json |
+| Ukrainian  | Український                      | uk.json |
 | Chinese(Simplified) | 简体中文          | zh.json |
 
 

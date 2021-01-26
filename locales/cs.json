@@ -1,4 +1,8 @@
 {
+    "_IDENTIFICATION_": "cs",
+    "_NAME_": "Czech",
+    "_NAME_LOCAL_": "čeština",
+    "_COUNTRY_": "",
     "ADD_TO_LIBRARY": "Přidat do knihovny",
     "ADD_TO_PLAYLIST": "Přidat do playlistu",
     "ALWAYS_ASK_WHEN_READ_LINK": "Vždy se ptát při zjištění odkazu ve schránce",

@@ -1,4 +1,8 @@
 {
+	"_IDENTIFICATION_": "ko",
+    "_NAME_": "Korean",
+    "_NAME_LOCAL_": "한국어",
+    "_COUNTRY_": "",
 	"ADD_TO_LIBRARY": "라이브러리에 추가",
 	"ADD_TO_PLAYLIST": "플레이리스트에 추가",
 	"ALWAYS_ASK_WHEN_READ_LINK": "링크 읽을 때 항상 물어보기",

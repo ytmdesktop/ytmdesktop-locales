@@ -1,4 +1,8 @@
 {
+    "_IDENTIFICATION_": "ca",
+    "_NAME_": "Catalan",
+    "_NAME_LOCAL_": "Català",
+    "_COUNTRY_": "",
     "ADD_TO_LIBRARY": "Afegir a la biblioteca",
     "ADD_TO_PLAYLIST": "Afegir a la llista de reproducció",
     "ALWAYS_ASK_WHEN_READ_LINK": "Preguntar sempre al llegir l'enllaç",

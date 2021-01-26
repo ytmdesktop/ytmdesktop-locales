@@ -1,4 +1,8 @@
 {
+    "_IDENTIFICATION_": "zh",
+    "_NAME_": "Chinese(Simplified)",
+    "_NAME_LOCAL_": "简体中文",
+    "_COUNTRY_": "China",
     "ADD_TO_LIBRARY": "添加到库",
     "ADD_TO_PLAYLIST": "添加到播放列表",
     "ALWAYS_ASK_WHEN_READ_LINK": "读取链接前永远询问",
