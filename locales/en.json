@@ -108,5 +108,13 @@
 	"TRAY_ICON": "Tray icon",
 	"WANT_PLAY_THIS_LINK": "Want to play this link?",
 	"LABEL_SETTINGS_TAB_GENERAL_SHINY_TRAY_SONG_TITLE_ROLLABLE": "Roll song title in tray",
-	"LABEL_SETTINGS_TAB_PLAYBACK_PAUSE_ON_SUSPEND": "Pause music on sleep"
+	"LABEL_SETTINGS_TAB_PLAYBACK_PAUSE_ON_SUSPEND": "Pause music on sleep",
+	"SLEEPTIMER": "Sleep Timer",
+	"SLEEPTIMER_CLEAR": "Clear",
+	"SLEEPTIMER_SET": "Set",
+	"SLEEPTIMER_RESET": "Clear & set",
+	"SLEEPTIMER_MINUTES": "min",
+	"SLEEPTIMER_SONGS": "Songs",
+	"SLEEP_BY_TIME": "Set sleep timer by time...",
+	"SLEEP_BY_COUNT": "Set sleep timer by song count..."
 }
