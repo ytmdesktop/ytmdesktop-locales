@@ -107,5 +107,6 @@
 	"SKIP_TRACK_SHORTER_THAN": "Skip tracks shorter than",
 	"TRAY_ICON": "Tray icon",
 	"WANT_PLAY_THIS_LINK": "Want to play this link?",
-	"LABEL_SETTINGS_TAB_GENERAL_SHINY_TRAY_SONG_TITLE_ROLLABLE": "Roll song title in tray"
+	"LABEL_SETTINGS_TAB_GENERAL_SHINY_TRAY_SONG_TITLE_ROLLABLE": "Roll song title in tray",
+	"LABEL_SETTINGS_TAB_PLAYBACK_PAUSE_ON_SUSPEND": "Pause music on sleep"
 }
