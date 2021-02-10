@@ -116,5 +116,5 @@
 	"SLEEPTIMER_MINUTES": "min",
 	"SLEEPTIMER_SONGS": "Songs",
 	"SLEEP_BY_TIME": "Set sleep timer by time...",
-	"SLEEP_BY_COUNT": "Set sleep timer by song count..."
+	"SLEEP_BY_COUNTER": "Set sleep timer by song count..."
 }

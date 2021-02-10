@@ -116,5 +116,5 @@
 	"SLEEPTIMER_MINUTES": "分钟",
 	"SLEEPTIMER_SONGS": "首",
 	"SLEEP_BY_TIME": "根据时间设定...",
-	"SLEEP_BY_COUNT": "根据歌曲数量设定..."
+	"SLEEP_BY_COUNTER": "根据歌曲数量设定..."
 }
