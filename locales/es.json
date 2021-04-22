@@ -42,6 +42,7 @@
     "LABEL_SETTINGS_TAB_GENERAL_CUSTOM_THEME": "Tema personalizado",
     "LABEL_SETTINGS_TAB_GENERAL_DISABLE_HARDWARE_ACCELERATION": "Deshabilitar la acceleracción por hardware",
     "LABEL_SETTINGS_TAB_GENERAL_DISCORD_RICH_PRESENCE": "Discord Rich Presence",
+    "LABEL_SETTINGS_TAB_GENERAL_ENABLE_CACHING": "Habilitar el almacenamiento en caché",
     "LABEL_SETTINGS_TAB_GENERAL_KEEP_BACKGROUND": "Mantiene YTMDesktop en segundo plano cuando la ventana es cerrada",
     "LABEL_SETTINGS_TAB_GENERAL_PAGE_ZOOM": "Zoom de la página",
     "LABEL_SETTINGS_TAB_GENERAL_SELECT_AUDIO_OUTPUT": "Salida de audio",
