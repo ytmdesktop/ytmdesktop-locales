@@ -27,6 +27,7 @@ This repository is intended to store all locale files for different language.
 | Portuguese  | Português                      | pt.json |
 | Portuguese (Brazil)  | Português (Brasil)                      | pt-BR.json |
 | Russian  | Pусский                      | ru.json |
+| Thai  | ไทย                      | th.json |
 | Turkish  | Türk                      | tr.json |
 | Ukrainian  | Український                      | uk.json |
 | Chinese(Simplified) | 简体中文          | zh.json |
