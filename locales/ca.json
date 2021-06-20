@@ -43,6 +43,7 @@
     "LABEL_SETTINGS_TAB_GENERAL_DISCORD_RICH_PRESENCE": "Presència Rica a Discord",
     "LABEL_SETTINGS_TAB_GENERAL_KEEP_BACKGROUND": "Mantè YTMDesktop en segon pla quan es tanqui la finestra",
     "LABEL_SETTINGS_TAB_GENERAL_PAGE_ZOOM": "Zoom de la pàgina",
+	"LABEL_SETTINGS_TAB_GENERAL_LYRICS_ALWAYS_ON_TOP": "Finestres lírics són sempre a la part superior",
     "LABEL_SETTINGS_TAB_GENERAL_SELECT_AUDIO_OUTPUT": "Sortida d'àudio",
     "LABEL_SETTINGS_TAB_GENERAL_SELECT_LANGUAGE": "Idioma",
     "LABEL_SETTINGS_TAB_GENERAL_SELECT_LYRICS_PROVIDER": "Proveïdor de lletres",

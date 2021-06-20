@@ -44,6 +44,7 @@
     "LABEL_SETTINGS_TAB_GENERAL_DISCORD_RICH_PRESENCE": "Discord rik tilstedeværelse",
     "LABEL_SETTINGS_TAB_GENERAL_KEEP_BACKGROUND": "Hold YTMDesktop kjørende i bakgrunnen når vinduet lukkes",
     "LABEL_SETTINGS_TAB_GENERAL_PAGE_ZOOM": "Side zoom",
+    "LABEL_SETTINGS_TAB_GENERAL_LYRICS_ALWAYS_ON_TOP": "Lyrics vinduet er alltid på topp",
     "LABEL_SETTINGS_TAB_GENERAL_SELECT_AUDIO_OUTPUT": "Lydutgang",
     "LABEL_SETTINGS_TAB_GENERAL_SELECT_LANGUAGE": "Språk",
     "LABEL_SETTINGS_TAB_GENERAL_SELECT_LYRICS_PROVIDER": "Sangtekst leverandør",
