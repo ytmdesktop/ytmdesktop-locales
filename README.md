@@ -21,8 +21,9 @@ This repository is intended to store all locale files for different languages.
 | Hungarian  | Hongrois                      | hu.json |
 | Indonesian  | Indonesia                      | id.json |
 | Italian  | Italiano                      | it.json |
-| Japanese  | 日本人                      | ja.json |
+| Japanese  | 日本語                      | ja.json |
 | Korean  | 한국어                      | ko.json |
+| Kazakh | Қазақша                     | kz.json |
 | Dutch  | Nederlands                      | nl.json |
 | Norwegian  | Norsk                      | no.json |
 | Polish  | Polskie                      | pl.json |
@@ -40,8 +41,8 @@ To create translations for this repository, you'll need [Git](https://git-scm.co
 
 From your command line:
 
-```bash
-git clone https://github.com/ytmdesktop/ytmdesktop-locales
+```sh
+git clone https://github.com/ytmdesktop/ytmdesktop-locales.git
 cd ytmdesktop-locales
 ```
 
@@ -50,5 +51,4 @@ After cloning, duplicate `scaffold.json` and rename it to your locale code, (e.g
 It would be even better you could watch this repo to help us improve the translation upon new feature introduced.
 
 ## License
-
 CC0 1.0
