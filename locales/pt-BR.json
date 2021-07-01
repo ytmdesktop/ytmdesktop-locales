@@ -101,5 +101,15 @@
     "SKIP_TRACK_MARKED_DISLIKED": "Pular faixas marcadas como 'Não gostei'",
     "SKIP_TRACK_SHORTER_THAN": "Pular faixas mais curtas que",
     "TRAY_ICON": "Ícone na bandeja",
-    "WANT_PLAY_THIS_LINK": "Deseja executar este link?"
+    "WANT_PLAY_THIS_LINK": "Deseja executar este link?",
+    "LABEL_SETTINGS_TAB_GENERAL_SHINY_TRAY_SONG_TITLE_ROLLABLE": "Role o título da música na bandeja",
+    "LABEL_SETTINGS_TAB_PLAYBACK_PAUSE_ON_SUSPEND": "Pausar música ao suspender",
+    "SLEEPTIMER": "Temporizador",
+    "SLEEPTIMER_CLEAR": "Limpar",
+    "SLEEPTIMER_SET": "Definir",
+    "SLEEPTIMER_RESET": "Limpar & Setar",
+    "SLEEPTIMER_MINUTES": "min",
+    "SLEEPTIMER_SONGS": "Músicas",
+    "SLEEP_BY_TIME": "Defina o temporizador por hora...",
+    "SLEEP_BY_COUNTER": "Definir temporizador por contagem de músicas..."
 }
