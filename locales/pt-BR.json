@@ -43,7 +43,7 @@
     "LABEL_SETTINGS_TAB_GENERAL_DISCORD_RICH_PRESENCE": "Discord Rich Presence",
     "LABEL_SETTINGS_TAB_GENERAL_KEEP_BACKGROUND": "Manter YTMDesktop em segundo plano quando fechar a janela principal",
     "LABEL_SETTINGS_TAB_GENERAL_PAGE_ZOOM": "Zoom da página",
-    "LABEL_SETTINGS_TAB_GENERAL_LYRICS_ALWAYS_ON_TOP": "A janela da letra está sempre no topo",
+    "LABEL_SETTINGS_TAB_GENERAL_LYRICS_ALWAYS_ON_TOP": "Janela da letra sempre no topo",
     "LABEL_SETTINGS_TAB_GENERAL_SELECT_AUDIO_OUTPUT": "Saída de áudio",
     "LABEL_SETTINGS_TAB_GENERAL_SELECT_LANGUAGE": "Linguagem",
     "LABEL_SETTINGS_TAB_GENERAL_SELECT_LYRICS_PROVIDER": "Provedor de letra da música",
@@ -107,9 +107,9 @@
     "SLEEPTIMER": "Temporizador",
     "SLEEPTIMER_CLEAR": "Limpar",
     "SLEEPTIMER_SET": "Definir",
-    "SLEEPTIMER_RESET": "Limpar & Setar",
+    "SLEEPTIMER_RESET": "Limpar & aplicar",
     "SLEEPTIMER_MINUTES": "min",
     "SLEEPTIMER_SONGS": "Músicas",
-    "SLEEP_BY_TIME": "Defina o temporizador por hora...",
+    "SLEEP_BY_TIME": "Definir temporizador por tempo...",
     "SLEEP_BY_COUNTER": "Definir temporizador por contagem de músicas..."
 }
