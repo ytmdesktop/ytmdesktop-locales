@@ -18,7 +18,7 @@ This repository is intended to store all locale files for different languages.
 | English  | English                      | en.json |
 | Spanish  | Español                      | es.json |
 | French  | Français                      | fr.json |
-| Hungarian  | Hongrois                      | hu.json |
+| Hungarian  | Magyar                      | hu.json |
 | Indonesian  | Indonesia                      | id.json |
 | Italian  | Italiano                      | it.json |
 | Japanese  | 日本語                      | ja.json |
