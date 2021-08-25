@@ -1,7 +1,7 @@
 {
     "_IDENTIFICATION_": "ja",
     "_NAME_": "Japanese",
-    "_NAME_LOCAL_": "日本人",
+    "_NAME_LOCAL_": "日本語",
     "_COUNTRY_": "",
     "ADD_TO_LIBRARY": "ライブラリに追加",
     "ADD_TO_PLAYLIST": "プレイリストに追加",
@@ -107,7 +107,7 @@
     "LABEL_SETTINGS_TAB_PLAYBACK_DECIBEL_VOLUME": "音量の表記を'%'から'db'に変える",
     "LABEL_SETTINGS_TAB_APPEARANCE_PLAYER_BACKGROUND_COLOR": "操作ボタンをアルバムの色にする",
     "LABEL_SETTINGS_TAB_SHORTCUTS_VOLUME_MEDIA_KEYS": "ボリューム操作をアプリのみに適用",
-    "LABEL_SHUTDOWN": "LABEL_SHUTDOWN",
+    "LABEL_SHUTDOWN": "シャットダウン",
     "SLEEPTIMER": "スリープタイマー",
     "SLEEP_BY_TIME": "指定時間後に再生をストップ",
     "SLEEPTIMER_MINUTES": "分",
@@ -118,5 +118,5 @@
     "LABEL_SETTINGS_TAB_GENERAL_SHINY_TRAY_SONG_TITLE_ROLLABLE": "再生時のタイトルのアニメーションを有効化",
     "LABEL_SETTINGS_TAB_PLAYBACK_PAUSE_ON_SUSPEND": "スリープ時に音楽を停止する",
     "LABEL_SETTINGS_TAB_GENERAL_GENIUS_LYRICS": "Genius Lyricsと連携する",
-    "SLEEPTIMER_RESET": "SLEEPTIMER_RESET"
+    "SLEEPTIMER_RESET": "スリープタイマーのリセット"
 }
