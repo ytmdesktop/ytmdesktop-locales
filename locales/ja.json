@@ -75,7 +75,7 @@
     "LABEL_SETTINGS_TAB_MINIPLAYER_SHOW_TASK": "タスクバーに表示",
     "LABEL_SETTINGS_TAB_PLAYBACK": "再生",
     "LABEL_SETTINGS_TAB_RAINMETER_WEB_NOW_PLAYING": "Rainmeter (WebNowPlaying)",
-    "LABEL_SETTINGS_TAB_READ_CLIPBOARD": "クリップボードからYoutubeのリンクを読み取る",
+    "LABEL_SETTINGS_TAB_READ_CLIPBOARD": "クリップボードからYouTubeのリンクを読み取る",
     "LABEL_SETTINGS_TAB_SHORTCUTS": "ショートカット",
     "LABEL_SETTINGS_TAB_SHORTCUTS_GLOBAL": "グローバル",
     "LABEL_SETTINGS_TAB_SHORTCUTS_LOCAL": "ローカル",
@@ -106,5 +106,17 @@
     "WANT_PLAY_THIS_LINK": "このリンクを再生しますか？",
     "LABEL_SETTINGS_TAB_PLAYBACK_DECIBEL_VOLUME": "音量の表記を'%'から'db'に変える",
     "LABEL_SETTINGS_TAB_APPEARANCE_PLAYER_BACKGROUND_COLOR": "操作ボタンをアルバムの色にする",
-    "LABEL_SETTINGS_TAB_SHORTCUTS_VOLUME_MEDIA_KEYS": "ボリューム操作をアプリのみに適用"
+    "LABEL_SETTINGS_TAB_SHORTCUTS_VOLUME_MEDIA_KEYS": "ボリューム操作をアプリのみに適用",
+    "LABEL_SHUTDOWN": "LABEL_SHUTDOWN",
+    "SLEEPTIMER": "スリープタイマー",
+    "SLEEP_BY_TIME": "指定時間後に再生をストップ",
+    "SLEEPTIMER_MINUTES": "分",
+    "SLEEP_BY_COUNTER": "曲数をトリガーに再生をストップ",
+    "SLEEPTIMER_SONGS": "曲",
+    "SLEEPTIMER_SET": "スリープタイマーの設定",
+    "SLEEPTIMER_CLEAR": "スリープタイマーの解除",
+    "LABEL_SETTINGS_TAB_GENERAL_SHINY_TRAY_SONG_TITLE_ROLLABLE": "再生時のタイトルのアニメーションを有効化",
+    "LABEL_SETTINGS_TAB_PLAYBACK_PAUSE_ON_SUSPEND": "スリープ時に音楽を停止する",
+    "LABEL_SETTINGS_TAB_GENERAL_GENIUS_LYRICS": "Genius Lyricsと連携する",
+    "SLEEPTIMER_RESET": "SLEEPTIMER_RESET"
 }
