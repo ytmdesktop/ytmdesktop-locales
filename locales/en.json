@@ -119,5 +119,6 @@
 	"SLEEPTIMER_MINUTES": "min",
 	"SLEEPTIMER_SONGS": "Songs",
 	"SLEEP_BY_TIME": "Set sleep timer by time...",
-	"SLEEP_BY_COUNTER": "Set sleep timer by song count..."
+	"SLEEP_BY_COUNTER": "Set sleep timer by song count...",
+	"LABEL_SETTINGS_TAB_PLAYBACK_AUTOCLICK_SKIPAD": "Auto click skipAd"
 }
