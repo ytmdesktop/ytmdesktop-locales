@@ -74,6 +74,7 @@
   "LABEL_SETTINGS_TAB_MINIPLAYER_ALWAYS_SHOW_CONTROLS": "Mostrar controles siempre",
   "LABEL_SETTINGS_TAB_MINIPLAYER_PAINT_CONTROLS": "Tintar los controles con los colores del álbum",
   "LABEL_SETTINGS_TAB_MINIPLAYER_RESIZABLE": "Permitir el redimensionamiento",
+  "LABEL_SETTINGS_TAB_MINIPLAYER_STREAM_CONFIG": "LABEL_SETTINGS_TAB_MINIPLAYER_STREAM_CONFIG",
   "LABEL_SETTINGS_TAB_MINIPLAYER_SHOW_TASK": "Mostrar en la barra de tareas",
   "LABEL_SETTINGS_TAB_PLAYBACK": "Repetición",
   "LABEL_SETTINGS_TAB_PLAYBACK_DECIBEL_VOLUME": "Cambiar el control de volumen de '%' a 'dB'",

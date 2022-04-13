@@ -75,6 +75,7 @@
   "LABEL_SETTINGS_TAB_MINIPLAYER_PAINT_CONTROLS": "Paint controls with album color",
   "LABEL_SETTINGS_TAB_MINIPLAYER_RESIZABLE": "Allow resizing",
   "LABEL_SETTINGS_TAB_MINIPLAYER_SHOW_TASK": "Show on taskbar",
+  "LABEL_SETTINGS_TAB_MINIPLAYER_STREAM_CONFIG": "Alternate layout for live streaming",
   "LABEL_SETTINGS_TAB_PLAYBACK": "Playback",
   "LABEL_SETTINGS_TAB_PLAYBACK_DECIBEL_VOLUME": "Switch volume control from '%' to 'dB'",
   "LABEL_SETTINGS_TAB_PLAYBACK_PAUSE_ON_SUSPEND": "Pause music on sleep",
