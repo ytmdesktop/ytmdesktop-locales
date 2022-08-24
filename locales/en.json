@@ -78,6 +78,7 @@
   "LABEL_SETTINGS_TAB_MINIPLAYER_STREAM_CONFIG_TOOLTIP": "Changes the layout of the miniplayer, optimizing information space for easy use with live streaming. If you are trying to use this in OBS/XSplit make sure to Enable 'Show on taskbar'",
   "LABEL_SETTINGS_TAB_MINIPLAYER_SHOW_TASK": "Show on taskbar",
   "LABEL_SETTINGS_TAB_PLAYBACK": "Playback",
+  "LABEL_SETTINGS_TAB_PLAYBACK_AUTOCLICK_SKIPAD": "Auto click skipAd",
   "LABEL_SETTINGS_TAB_PLAYBACK_DECIBEL_VOLUME": "Switch volume control from '%' to 'dB'",
   "LABEL_SETTINGS_TAB_PLAYBACK_PAUSE_ON_SUSPEND": "Pause music on sleep",
   "LABEL_SETTINGS_TAB_PLAYBACK_SURROUND_SOUND": "Surround Sound/Speaker Fill",
