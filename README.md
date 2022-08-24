@@ -34,6 +34,7 @@ This repository is intended to store all locale files for different languages.
 | Turkish               | Türk                         | tr.json |
 | Ukrainian             | Український                  | uk.json |
 | Chinese(Simplified)   | 简体中文                     | zh.json |
+| Slovak                | Slovenčina                   | sk.json |
 
 ## To Contribute
 
