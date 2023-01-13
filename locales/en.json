@@ -91,6 +91,7 @@
   "LABEL_SETTINGS_TAB_SHORTCUTS_VOLUME_MEDIA_KEYS": "Volume media keys only control app volume",
   "LABEL_SHUTDOWN": "Shutdown",
   "LYRICS": "Lyrics",
+  "MEDIA_CONTROL_ENABLE_DISABLE": "Enable/Disable Shortcut Media Control",
   "MEDIA_CONTROL_MINIPLAYER": "Open/Close Miniplayer",
   "MEDIA_CONTROL_MUTE_UNMUTE": "Mute/Unmute",
   "MEDIA_CONTROL_NEXT": "Next",
