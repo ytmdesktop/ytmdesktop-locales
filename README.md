@@ -30,6 +30,7 @@ This repository is intended to store all locale files for different languages.
 | Portuguese            | Português                    | pt.json |
 | Portuguese (Brazil)   | Português (Brasil)           | pt-BR.json |
 | Russian               | Pусский                      | ru.json |
+| Swedish               | Svenska                      | se.json |
 | Thai                  | ไทย                          | th.json |
 | Turkish               | Türk                         | tr.json |
 | Ukrainian             | Український                  | uk.json |
