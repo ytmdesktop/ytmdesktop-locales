@@ -15,6 +15,7 @@ This repository is intended to store all locale files for different languages.
 | Czech                 | čeština                      | cs.json |
 | Danish                | dansk                        | da.json |
 | German                | Deutsche                     | de.json |
+| Greek                 | Ελληνικά                     | el.json |
 | English               | English                      | en.json |
 | Spanish               | Español                      | es.json |
 | French                | Français                     | fr.json |
