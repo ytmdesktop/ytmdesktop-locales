@@ -1,0 +1,64 @@
+{
+  "settings": {
+    "title": "Settings",
+    "restartToApply": "Restart app to apply changes",
+    "restartToApplyButton": "Restart",
+    "general": {
+      "title": "General",
+      "hideToTray": "Hide to tray on close",
+      "showNotification": "Show notification on song change",
+      "startOnBoot": "Start on boot",
+      "disableHardwareAcceleration": "Disable hardware acceleration"
+    },
+    "appearance": {
+      "title": "Appearance",
+      "alwaysShowVolumeSlider": "Always show volume slider",
+      "customCSS": "Custom CSS",
+      "customCSSFilePath": "Custom CSS file path",
+      "zoom": "Zoom"
+    },
+    "playback": {
+      "title": "Playback",
+      "continueLeftOff": "Continue where you left off",
+      "continueLeftOffPause": "Pause on application launch",
+      "taskbarTrackProgress": "Show track progress on taskbar",
+      "speakerFill": "Enable speaker fill",
+      "ratioVolume": "Ratio volume"
+    },
+    "integrations": {
+      "title": "Integrations",
+      "safeStorageUnavailable": "This integration cannot be enabled due to safe storage being unvailable",
+      "companionServer": "Companion server",
+      "companionServerBrowserComm": "Allow browser communication",
+      "companionServerBrowserCommDesc": "This setting could be dangerous as it allows any website you visit to communicate with the companion server",
+      "companionServerEnableAuth": "Enable companion authorization",
+      "companionServerEnableAuthDesc": "Automatically disables after the first successful authorization or 5 minutes has passed",
+      "companionServerAuthorizedCompanions": "Authorized companions",
+      "companionServerAuthorizedCompanionsDesc": "This is a list of companions that currently have access to the companion server",
+      "companionServerAuthorizedCompanionsTable": {
+        "id": "ID",
+        "name": "Name",
+        "version": "Version",
+        "noAuthorizedCompanions": "No authorized companions"
+      },
+      "discordRichPresence": "Discord rich presence",
+      "discordRichPresenceConnectionAttemptsFailure": "Discord connection could not be established after 30 attempts",
+      "discordRichPresenceRetryButton": "Retry",
+      "lastFmScrobbling": "Last.fm scrobbling"
+    },
+    "shortcuts": {
+      "title": "Shortcuts",
+      "failedToRegisterKeybind": "Failed to register keybind. Does another application have this keybind?",
+      "playPause": "Play/Pause",
+      "next": "Next",
+      "previous": "Previous",
+      "thumbsUp": "Thumbs up",
+      "thumbsDown": "Thumbs down",
+      "increaseVolume": "Increase volume",
+      "decreaseVolume": "Decrease volume"
+    },
+    "about": {
+      "title": "About"
+    }
+  }
+}
