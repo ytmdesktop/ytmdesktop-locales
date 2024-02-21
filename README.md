@@ -14,7 +14,7 @@ This repository is intended to store all locale files for different languages.
 | Catalan               | Català                       | ca.json |
 | Czech                 | čeština                      | cs.json |
 | Danish                | dansk                        | da.json |
-| German                | Deutsche                     | de.json |
+| German                | Deutsch                      | de.json |
 | Greek                 | Ελληνικά                     | el.json |
 | English               | English                      | en.json |
 | Spanish               | Español                      | es.json |
