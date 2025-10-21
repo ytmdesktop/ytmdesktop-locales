@@ -33,7 +33,7 @@ This repository is intended to store all locale files for different languages.
 | Russian               | Pусский                      | ru.json |
 | Swedish               | Svenska                      | se.json |
 | Thai                  | ไทย                          | th.json |
-| Turkish               | Türk                         | tr.json |
+| Turkish               | Türkçe                       | tr.json |
 | Ukrainian             | Український                  | uk.json |
 | Chinese(Simplified)   | 简体中文                     | zh.json |
 | Slovak                | Slovenčina                   | sk.json |
